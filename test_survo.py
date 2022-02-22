@@ -1,6 +1,5 @@
 # redtiger@kist.re.kr
-# 
-# reference: 
+# reference: https://github.com/NVIDIA/jetson-gpio
 
 import RPi.GPIO as GPIO
 import time
